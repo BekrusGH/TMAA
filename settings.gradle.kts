@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Hello_world_ex"
 include(":app")
+include(":kt2du")
