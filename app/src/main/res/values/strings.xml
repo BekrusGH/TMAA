@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TMAADU4</string>
+
+    <string name="permission_needed">Aplikace potřebuje povolení k lokaci.</string>
+    <string name="allow_location">Povolit lokaci</string>
+
+    <string name="coordinates_title">Lat: %1$s  Lon: %2$s</string>
+
+    <string name="marker_title">Tady jsem</string>
+
+    <string name="coordinates_empty">Souřadnice: —</string>
+
+    <string name="waiting_for_gps">Čekám na GPS lokaci...</string>
+</resources>
