@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Perspective</string>
+
+    <string name="add_subscription">Add subscription</string>
+    <string name="add_subscription_cd">Add subscription</string>
+    <string name="add_subscription_success">Subscription was added</string>
+    <string name="edit_subscription_success">Subscription was updated</string>
+    <string name="delete_subscription_success">Subscription was deleted</string>
+
+    <string name="delete_subscription_title">Delete subscription?</string>
+    <string name="delete_subscription_message">Do you really want to delete “%1$s”?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+
+    <string name="empty_subscriptions_title">No subscriptions yet</string>
+    <string name="empty_subscriptions_body">Add your first one and start tracking price per use.</string>
+
+    <string name="edit_subscription">Edit subscription</string>
+    <string name="name">Name</string>
+    <string name="name_required_error">Name cannot be empty.</string>
+    <string name="description_optional">Description (optional)</string>
+    <string name="monthly_price_czk">Monthly price (CZK)</string>
+    <string name="price_required_error">Price must be a number greater than 0.</string>
+    <string name="category">Category</string>
+
+    <string name="overview">Overview</string>
+    <string name="overview_basic_title">Basic overview</string>
+    <string name="overview_insights_title">Insights</string>
+    <string name="overview_category_chart_title">Spending by category</string>
+    <string name="overview_category_chart_subtitle">Breakdown of monthly costs.</string>
+    <string name="overview_ranking_title">Most used</string>
+    <string name="overview_ranking_subtitle">Subscriptions with the highest usage count.</string>
+    <string name="overview_total">Total</string>
+    <string name="overview_czk_per_month">CZK / month</string>
+    <string name="overview_no_chart_data">No data for the chart yet.</string>
+
+    <string name="active">Active</string>
+    <string name="monthly">Monthly</string>
+    <string name="uses">Uses</string>
+    <string name="usage">Usage</string>
+
+    <string name="edit">Edit</string>
+    <string name="delete_cd">Delete</string>
+    <string name="price_per_use">Price / use</string>
+
+    <string name="value_monthly_czk">%1$.0f CZK</string>
+    <string name="value_monthly_czk_precise">%1$.2f CZK</string>
+    <string name="value_price_with_currency">%1$.2f %2$s</string>
+    <string name="value_price_per_use_with_currency">%1$.2f %2$s</string>
+    <string name="value_percent">%1$.0f%%</string>
+    <string name="value_usage_count">%1$d×</string>
+    <string name="value_whole_number">%1$.0f</string>
+
+    <string name="category_streaming">Streaming</string>
+    <string name="category_music">Music</string>
+    <string name="category_productivity">Productivity</string>
+    <string name="category_gaming">Gaming</string>
+    <string name="category_education">Education</string>
+    <string name="category_other">Other</string>
+    <string name="category_fitness">Fitness</string>
+    <string name="category_news">News</string>
+
+    <string name="nav_subscriptions">Subscriptions</string>
+    <string name="nav_overview">Overview</string>
+    <string name="nav_subscriptions_cd">Subscriptions</string>
+    <string name="nav_overview_cd">Overview</string>
+
+    <string name="insight_worst_value_title">Worst value</string>
+    <string name="insight_worst_value_subtitle">Price per use: %1$.2f %2$s</string>
+
+    <string name="insight_most_used_title">Most used</string>
+    <string name="insight_most_used_subtitle">Usage count: %1$d</string>
+
+    <string name="insight_unused_title">Unused</string>
+    <string name="insight_unused_subtitle_example">For example: %1$s</string>
+    <string name="insight_unused_subtitle_all_used">All active subscriptions already have at least one use</string>
+
+    <string name="reset_usage">Reset usage</string>
+
+    <string name="monthly_reminder_channel_name">Monthly reminders</string>
+    <string name="monthly_reminder_channel_description">Reminds you to check your subscriptions before month end.</string>
+    <string name="monthly_reminder_title">Monthly subscription check</string>
+    <string name="monthly_reminder_body">Check your subscriptions before the end of the month.</string>
+
+    <string name="backup_to_cloud">Backup to cloud</string>
+    <string name="backup_successful">Backup successful</string>
+    <string name="backup_failed">Backup failed</string>
+</resources>

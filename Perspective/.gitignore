@@ -13,7 +13,3 @@
 .externalNativeBuild
 .cxx
 local.properties
-Perspective/build/
-Perspective/.gradle/
-Perspective/local.properties
-Perspective/.idea/

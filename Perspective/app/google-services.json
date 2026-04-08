@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103381644679",
+    "project_id": "perspective-c96f2",
+    "storage_bucket": "perspective-c96f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103381644679:android:88817af55c5c82cf478f22",
+        "android_client_info": {
+          "package_name": "com.jiri.perspective"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6yGUoczIelrI8F0o6ROfTO04bGX1ss7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
